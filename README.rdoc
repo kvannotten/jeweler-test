@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kvannotten/jeweler-test.png?branch=master)](https://travis-ci.org/kvannotten/jeweler-test)
+
 = jeweler-test
 
 Description goes here.
